@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **saviourise1@gmail.com**
 
-- 📄 Know about my experiences [https://saviourise.tk](saviourise.tk)
+- 📄 Know about my experiences [saviourise.tk](https://saviourise.tk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
