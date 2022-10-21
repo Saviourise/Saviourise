@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="Linkedin Badge" />
 </a> 
  <a href="https://github.com/saviourise?tab=followers"><img src="https://img.shields.io/github/followers/saviourise?label=Followers&style=social" alt="GitHub Badge"></a>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saviourise&label=Profile%20views&color=0e75b6&style=flat" alt="saviourise" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=saviourise&label=Profile%20views&color=0e75b6&style=flat" alt="saviourise" />
 
 <a href="https://twitter.com/saviour_ise" target="blank"><img src="https://img.shields.io/twitter/follow/saviour_ise?logo=twitter&style=flat" alt="saviour_ise" /></a>
 </div>
