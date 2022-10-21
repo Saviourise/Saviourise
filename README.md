@@ -5,15 +5,15 @@
 </a> 
  <a href="https://github.com/saviourise?tab=followers"><img src="https://img.shields.io/github/followers/saviourise?label=Followers&style=social" alt="GitHub Badge"></a>
 </div> 
- <img src="https://komarev.com/ghpvc/?username=saviourise&style=flat-square&color=blue" alt=""/>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=saviourise&label=Profile%20views&color=0e75b6&style=flat" alt="saviourise" /> </p>
+
+<p align="left"> <a href="https://twitter.com/saviour_ise" target="blank"><img src="https://img.shields.io/twitter/follow/saviour_ise?logo=twitter&style=for-the-badge" alt="saviour_ise" /></a> </p>
 <h1 align="center">Hi 👋, I'm Saviour Ise Okhuoya</h1>
 <h4 align="center">Seeking a role as a web developer so I can use my thorough knowledge of programming frameworks and development software to build, grow and satisfy client needs.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saviourise&label=Profile%20views&color=0e75b6&style=flat" alt="saviourise" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saviourise" alt="saviourise" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saviour_ise" target="blank"><img src="https://img.shields.io/twitter/follow/saviour_ise?logo=twitter&style=for-the-badge" alt="saviour_ise" /></a> </p>
 
 - 🌱 I’m currently learning **Vuejs, Django**
 
