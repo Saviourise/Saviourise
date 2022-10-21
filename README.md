@@ -1,3 +1,11 @@
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animated gif of fem-presenting person typing on their computer with icons floating on top of their head" width="300"/>
+<div id="badges">
+<a href="www.linkedin.com/in/saviourise" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+</a> 
+ <a href="https://github.com/saviourise?tab=followers"><img src="https://img.shields.io/github/followers/saviourise?label=Followers&style=social" alt="GitHub Badge"></a>
+</div> 
+ <img src="https://komarev.com/ghpvc/?username=saviourise&style=flat-square&color=blue" alt=""/>
 <h1 align="center">Hi 👋, I'm Saviour Ise Okhuoya</h1>
 <h4 align="center">Seeking a role as a web developer so I can use my thorough knowledge of programming frameworks and development software to build, grow and satisfy client needs.</h4>
 
