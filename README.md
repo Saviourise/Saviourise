@@ -5,10 +5,10 @@
 <br>
 <a href="https://twitter.com/saviour_ise" target="blank">
 <img src="https://img.shields.io/twitter/follow/saviour_ise?logo=twitter&style=social&label=Followers" alt="saviour_ise" />
-</a>
+</a><br>
 <a href="www.linkedin.com/in/saviourise" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="Linkedin Badge" />
-</a><br>
+</a>
   <br><a href="https://github.com/saviourise">
 <img src="https://komarev.com/ghpvc/?username=saviourise&label=Profile%20views&color=0e75b6&style=flat" alt="saviourise" /></a>
 
