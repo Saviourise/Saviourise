@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animated gif of fem-presenting person typing on their computer with icons floating on top of their head" width="300"/>
 <div id="badges">
 <a href="www.linkedin.com/in/saviourise" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue/followers/saviourise?label=Followers&style=social&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+<img src="https://img.shields.io/badge/LinkedIn-blue/followers/saviour-ise?logo=linkedin&logoColor=white" alt="Linkedin Badge" />
 </a> 
  <a href="https://github.com/saviourise?tab=followers"><img src="https://img.shields.io/github/followers/saviourise?label=Followers&style=social" alt="GitHub Badge"></a>
 </div> 
