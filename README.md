@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animated gif of fem-presenting person typing on their computer with icons floating on top of their head" width="300"/>
+<p style="display: grid; place-items: center;"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animated gif of fem-presenting person typing on their computer with icons floating on top of their head" width="300"/></p>
 <div id="badges">
 <a href="https://github.com/saviourise?tab=followers">
 <img src="https://img.shields.io/github/followers/saviourise?label=Followers&style=social" alt="GitHub Badge"></a>
@@ -17,7 +17,7 @@
 <h4 align="center">Seeking a role as a web developer so I can use my thorough knowledge of programming frameworks and development software to build, grow and satisfy client needs.</h4>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saviourise" alt="saviourise" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saviourise&column=3&margin-w=15&margin-h=15" alt="saviourise" /></a> </p>
 
 
 - 🌱 I’m currently learning **Vuejs, Django**
