@@ -1,5 +1,5 @@
 <p style="display: grid; place-items: center;"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animated gif of fem-presenting person typing on their computer with icons floating on top of their head" width="300"/></p>
-<div id="badges">
+<div id="badges" style="display: grid; place-items: center;">
 <a href="https://github.com/saviourise?tab=followers">
 <img src="https://img.shields.io/github/followers/saviourise?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
