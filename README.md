@@ -16,6 +16,23 @@
 <h1 align="center">Hi 👋, I'm Saviour Ise Okhuoya</h1>
 <h4 align="center">Seeking a role as a web developer so I can use my thorough knowledge of programming frameworks and development software to build, grow and satisfy client needs.</h4>
 
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/saviourokhuoya rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-f5c89e23-8fa8-491a-bbdf-c990bf4e52ad' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >saviourokhuoya</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>I am a web developer with relevant skills and experience to build small, medium and large scale websites with affordable market prices. Websites i build includes banking and finance websites, educational websites, business websites, e-commerce websites, blogs e.t.c.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-f5c89e23-8fa8-491a-bbdf-c990bf4e52ad' src='https://widgets.fiverr.com/api/v1/seller/saviourokhuoya?widget_id=f5c89e23-8fa8-491a-bbdf-c990bf4e52ad' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saviourise&column=3&margin-w=15&margin-h=15" alt="saviourise" /></a> </p>
 
