@@ -21,7 +21,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saviourise&column=3&margin-w=15&margin-h=15" alt="saviourise" /></a> </p>
 
 
-- 🌱 I’m currently learning **Vuejs, Django**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **JavaScript, React js, Nodejs**
 
